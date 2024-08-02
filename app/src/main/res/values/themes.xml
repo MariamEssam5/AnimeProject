@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Base application theme. -->
+    <style name="Base.Theme.FinalP" parent="Theme.Material3.DayNight.NoActionBar">
+        <!-- Customize your light theme here. -->
+        <!-- <item name="colorPrimary">@color/my_light_primary</item> -->
+    </style>
+
+    <!-- Theme for the entire app -->
+    <style name="Theme.FinalP" parent="Base.Theme.FinalP" />
+
+    <!-- Theme specifically for the splash screen -->
+    <style name="Theme.Splash" parent="Theme.FinalP">
+        <!-- Customize splash screen theme here, e.g., background color or image -->
+        <item name="android:windowBackground">@drawable/anime1</item>
+    </style>
+</resources>

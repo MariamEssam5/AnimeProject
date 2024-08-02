@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- App Name -->
+    <string name="app_name">Anime Quotes</string>
+
+    <!-- Content Descriptions -->
+    <string name="image_desc">Image Description</string>
+
+    <!-- Placeholder Text -->
+    <string name="placeholder_quote">Your quote here</string>
+</resources>
